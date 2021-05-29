@@ -10,4 +10,4 @@
   - Worked onborad the Deepwater Conqueror Ultra-Deepwater Drillship as a Third Engineer.
   - Worked as a plant operator for Rawhide Unit 1.
  
-- I hope my previous education alongside my future one will open opportunites to work alongside these industries.
+- I hope my previous experiences alongside my future education will open opportunites to work alongside these industries.
