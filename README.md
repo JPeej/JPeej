@@ -11,5 +11,3 @@
   - Worked as a plant operator for Rawhide Unit 1.
  
 - I hope my previous education alongside my future one will open opportunites to work alongside these industries.
-
-- Contact me on here or via my email: joshuapperry4@gmail.com
