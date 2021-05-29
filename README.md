@@ -1,5 +1,5 @@
 - Hi my name is Joshua Perry.
-  Currently I am learing programming through FreeCodeCamp and will hopefully be studying for a Bachelors in Computer Science soon.
+  Currently I am learning programming through FreeCodeCamp and will hopefully be studying for a Bachelors in Computer Science soon.
   
 - My progress in FreeCodeCamp:
   - Responsive Web Development complete. Includes basics of HTML and CSS.
