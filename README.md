@@ -1,8 +1,6 @@
 - Hi my name is Joshua Perry.
-  Currently I am learning programming through TheOdinProject, Automate the Boring Stuff with Python, and will hopefully be studying for a Bachelors in Computer Science soon.
-  
-- My progress in TheOdinProject:
-  - Responsive Web Development complete via FreeCodeCamp. Includes basics of HTML and CSS.
+  Currently I am studying for my Bachelors in Computer Science at WGU Online.
+  I've completed some basic HTML and CSS study on my own via FreeCodeCamp & TheOdinProject.
   
 - My prior education and work experience include:
   - A Bachelors in Marine Engineering Operations from Maine Maritime Academy.
