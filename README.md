@@ -1,11 +1,10 @@
-- Hi my name is Joshua Perry.
-  Currently I am studying for my Bachelors in Computer Science at WGU Online.
-  I've completed some basic HTML and CSS study on my own via FreeCodeCamp & TheOdinProject.
+- Hi my name is Joshua Perry.<br/>
+  Currently I am studying for my Bachelors in Computer Science at WGU Online.<br/>
+  Many of my repos are private due to WGU's policy. If you would like limited access please message me.<br/>
+  I am hoping to apply my previous knowledge with my current CompSci education to help better the world via emmision control or alternative energy.
   
-- My prior education and work experience include:
+- Education and work experience include:
+  - Plant Operator Level 3 @ Rawhide Power Station
   - A Bachelors in Marine Engineering Operations from Maine Maritime Academy.
   - A USCG Unlimited Third Engineer License.
   - Worked onborad the Deepwater Conqueror Ultra-Deepwater Drillship as a Third Engineer.
-  - Worked as a plant operator for Rawhide Unit 1.
- 
-- I hope my previous experiences alongside my future education will open opportunites to work alongside these industries.
